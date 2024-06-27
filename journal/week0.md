@@ -4,7 +4,7 @@
 Conceptual design I made using Lucid Chart
 
 <img width="994" alt="Screenshot 2024-06-27 at 4 01 02 PM" src="https://github.com/ThanhDatVu111/AWS_Project/assets/150296646/fe244511-687a-4f99-86ac-9adc78b1f075">
-Check out the link: https://lucid.app/lucidchart/8b33f85a-0262-4f5a-9c9f-671123705e3c/edit?viewport_loc=-587%2C-166%2C2944%2C1642%2C0_0&invitationId=inv_a1cd53c3-5fd3-4137-8cef-0cfd022cb608
+Check out the link: https://lucid.app/lucidchart/f0eddc22-39de-43b5-9ef1-5688d3efb406/edit?viewport_loc=-254%2C-272%2C2499%2C1394%2C0_0&invitationId=inv_8d8d5c8a-6fa5-4e9f-af77-2145406facc2
 
 # Logical Architecture Design
 This design I made using Lucid Chart provides a comprehensive and detailed blueprint for the project, offering more depth and clarity than the preceding conceptual design.
