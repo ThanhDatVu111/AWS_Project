@@ -1,4 +1,4 @@
-FROM 557443467949.dkr.ecr.eu-west-2.amazonaws.com/cruddur-python:3.10-slim-buster
+FROM python:3.10-slim-buster
 
 RUN apt-get update \
  && apt-get install -y curl
