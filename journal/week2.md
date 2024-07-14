@@ -1,6 +1,6 @@
 # Week 2 — Distributed Tracing
 
-# Honey Comb
+# Honeycomb.io
 During this week's, I explored Honeycomb as an observability tool and integrated it into my backend Flask application using OpenTelemetry (OTEL) with Honeycomb.io as the provider. I began by creating a new environment named 'bootcamp' on Honeycomb.io, then copied the API key and set it as an environment variable in Gitpod. Next, I added OTEL settings to the docker-compose.yml file to configure the backend. Although I focused on the backend, similar steps can be applied to the frontend application in the future.
 
 Following the instructions on Honeycomb.io, I completed the installation process by updating the requirements.txt and App.py files. I then created a new span in the 'home activities' route to indicate that I am returning hard-coded data. As a result, I could observe two spans in Honeycomb each time a request was made to that backend route.
